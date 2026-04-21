@@ -16,12 +16,6 @@ No ficheiro `src/components/PlayerProfile.test.jsx`, completar o teste para veri
 - o componente `PlayerProfile` e renderizado;
 - o elemento `h2` contem corretamente o valor da prop `username`.
 
-O teste deve usar:
-
-- `render(...)`
-- `screen.getByRole("heading", { level: 2 })`
-- `toHaveTextContent(...)`
-
 ## Requisitos tecnicos
 
 - Nao alterar o enunciado do teste.
