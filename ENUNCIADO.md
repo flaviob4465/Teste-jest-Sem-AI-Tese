@@ -22,6 +22,11 @@ No ficheiro `src/components/PlayerProfile.test.jsx`, completar o teste para veri
 - Nao alterar o nome do componente `PlayerProfile`.
 - Manter a estrutura de pastas indicada.
 - O projeto deve executar com:
+
+  - `git clone https://github.com/flaviob4465/Teste-jest-Sem-AI-Tese.git`
+  - `cd Teste-jest-Sem-AI-Tese`
+  - `npm install`
+  - `npm test`
   - `npm i`
   - `npm test`
 
